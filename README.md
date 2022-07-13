@@ -1,1 +1,1 @@
-# hotstar-clone
+# netflix-clone
